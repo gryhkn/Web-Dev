@@ -1,5 +1,3 @@
-// document.getElementById("count").innerText = 5
-
 let countEl = document.getElementById("count-el")
 let saveEl = document.getElementById("save-el")
 let totalNumber = document.getElementById("total-nm")
